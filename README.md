@@ -10,6 +10,8 @@ Before running the "npm start" please install the necessary
 
 ### `npm install`
 
+After that run the command
+
 ### `npm start`
 
 Runs the app in the development mode.\
